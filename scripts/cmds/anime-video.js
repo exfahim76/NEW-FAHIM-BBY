@@ -28,7 +28,7 @@ module.exports = {
 
 		let loadingMsg;
 		try {
-			loadingMsg = await message.reply("⚡ ᴠɪᴅᴇᴏ ʟᴏᴀᴅɪɴɢ...⚡");
+			loadingMsg = await message.reply("⚡ ᴠɪᴅᴇᴏ-ʟᴏᴀᴅɪɴɢ...⚡");
 		} catch {}
 
 		// 🔥 Drive Links (Converted)

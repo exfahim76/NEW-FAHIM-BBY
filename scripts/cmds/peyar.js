@@ -60,7 +60,7 @@ module.exports.onStart = async function ({ api, event, args }) {
     fs.writeFileSync(path, JSON.stringify(data, null, 2));  
   
     return api.sendMessage({  
-      body: `𓆩»${name}«𓆪\n এই ম্যাডাম আপনি SMS করলেই বস ফারহান এর পক্ষ থেকে হাজারো ভালোবাসা দিমু..😽😻`,  
+      body: `𓆩»${name}«𓆪\n এই ম্যাডাম আপনি SMS করলেই বস ফাহিম এর পক্ষ থেকে হাজারো ভালোবাসা দিমু..😽😻`,  
       mentions: [{  
         id: mention,  
         tag: name  
@@ -90,7 +90,7 @@ module.exports.onChat = async function ({ api, event }) {
   if (prefix && event.body.startsWith(prefix)) return;
   
   const insults = [  
-    "\nআমি আমার বস ফারহান এর পক্ষো থেকে সিজুকা বলতাছি, ☺️💝🌺...//",  
+    "\nআমি আমার বস ফাহিম এর পক্ষো থেকে সিজুকা বলতাছি, ☺️💝🌺...//",  
     "\nতোমার চিন্তা আমার মন থেকে কখনই যাবে না 🙂\nকারণ তুমি আমার চিন্তার চিন্তায় মিশে আছো💚",  
     "\nতুমি আমায় কি করলে তোমাকে ছাড়া আমি কিছু বুঝিনা কেন এই মন শুধু খোঁজে তোমাকে সারাক্ষণ😒",  
     "\nশুনো প্রিয় খুব ভালো বাসি তোমায়…🥰",  

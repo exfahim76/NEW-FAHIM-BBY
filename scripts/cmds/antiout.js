@@ -52,7 +52,7 @@ module.exports = {
 তুই এখন "Escape Legend" 💀🏆
 আর add করা হইবো না! Bye bye 👋
 
-***_Powered by Farhan ⚡_***`,
+***_Powered by Fahim ⚡_***`,
           event.threadID
         );
       }

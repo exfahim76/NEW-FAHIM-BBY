@@ -23,7 +23,7 @@ module.exports = {
 			restartting: "🔄 | Đang khởi động lại bot..."
 		},
 		en: {
-			restartting: "🔄 | Restarting bot..."
+			restartting: "𝗘𝗸𝘁𝘂 𝗠𝗼𝗷𝗮 𝗞𝗼𝗿𝗹𝗮𝗺 😁😎𝘁𝘂𝗶 𝗼𝗸 𝗯𝗼𝗹𝘀𝗼𝘀 𝗱𝗲𝗶𝗸𝗵𝗮 𝗰𝘂𝗽 𝗸𝗼𝗿𝗹𝗮𝗺 😈🥵"
 		}
 	},
 

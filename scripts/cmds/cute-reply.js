@@ -24,7 +24,7 @@ const TRIGGERS = [
 
   // 🟢 FARHAN SYSTEM
   {
-    words: ["fahim","Fahim","FAHIM","ফাহিম"],
+    words: ["","","FAHIM","ফাহিম"],
 
     texts: [
       "👉 ফাহিম বস এখন বিজি জা বলার আমাকে বলতে পারেন_!!😼🥰",
@@ -42,7 +42,7 @@ const TRIGGERS = [
   // 🤖 MENTION SYSTEM
   {
     words: [
-      "@ঝ্ঁগ্ঁরা্ঁটে্ঁ বে্ঁবি্ঁ",
+      "@MA HI",
       "@আঁইঁ লাঁভঁ ইঁউঁ জাঁনঁ",
       "@সিৃঁ'জুৃঁ'কাৃঁ সিৃঁ'জুৃঁ"
     ],

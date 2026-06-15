@@ -24,7 +24,7 @@ const TRIGGERS = [
 
   // 🟢 FARHAN SYSTEM
   {
-    words: ["","","FAHIM","ফাহিম"],
+    words: ["fa","fahim","FAHIM","ফাহিম"],
 
     texts: [
       "👉 ফাহিম বস এখন বিজি জা বলার আমাকে বলতে পারেন_!!😼🥰",
